@@ -12,3 +12,10 @@
 - $ROI\ =\ \frac{Net\ Profit}{Total\ Cost}\ *\ 100$
 
 - When the actual costs are greater than the estimates, the ROI value decreases... inversely proportional relationship
+
+- EDA (Exploratory Data Analysis)
+  1. Assess dataset's completeness and accuracy
+  2. Identify and rectify any discrepancies
+  3. Prepare the dataset for in-depth analysis
+
+- 
